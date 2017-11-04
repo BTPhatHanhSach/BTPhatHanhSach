@@ -1,0 +1,114 @@
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\ApplicationInsights.config
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\roslyn\csc.exe
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\roslyn\System.Collections.Immutable.dll
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\roslyn\System.Reflection.Metadata.dll
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\roslyn\vbc.exe
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\roslyn\VBCSCompiler.exe
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\roslyn\VBCSCompiler.exe.config
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\PhatHanhSach.dll.config
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\PhatHanhSach.dll
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\PhatHanhSach.pdb
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\Antlr3.Runtime.dll
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\EntityFramework.dll
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\EntityFramework.SqlServer.dll
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\Microsoft.AI.Agent.Intercept.dll
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\Microsoft.AI.DependencyCollector.dll
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\Microsoft.AI.Web.dll
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\Microsoft.AI.WindowsServer.dll
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\Microsoft.ApplicationInsights.dll
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\Microsoft.Web.Infrastructure.dll
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\Newtonsoft.Json.dll
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\System.Web.Helpers.dll
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\System.Web.Mvc.dll
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\System.Web.Optimization.dll
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\System.Web.Razor.dll
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\System.Web.WebPages.Deployment.dll
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\System.Web.WebPages.dll
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\System.Web.WebPages.Razor.dll
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\WebGrease.dll
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\EntityFramework.xml
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\EntityFramework.SqlServer.xml
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\Microsoft.AI.DependencyCollector.xml
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\Microsoft.AI.Web.xml
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\Microsoft.AI.WindowsServer.xml
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\Microsoft.ApplicationInsights.xml
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\System.Web.Helpers.xml
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\System.Web.Mvc.xml
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\System.Web.Optimization.xml
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\System.Web.Razor.xml
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\System.Web.WebPages.xml
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\System.Web.WebPages.Deployment.xml
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\System.Web.WebPages.Razor.xml
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\Antlr3.Runtime.pdb
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\Newtonsoft.Json.xml
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\obj\Debug\PhatHanhSach.csprojResolveAssemblyReference.cache
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\obj\Debug\PhatHanhSach.dll
+D:\DO AN\Xay Dung Mo Hinh Phan Lop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\obj\Debug\PhatHanhSach.pdb
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\ApplicationInsights.config
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\roslyn\csc.exe
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\roslyn\vbc.exe
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\roslyn\VBCSCompiler.exe
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\PhatHanhSach.dll.config
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\PhatHanhSach.dll
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\PhatHanhSach.pdb
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\Antlr3.Runtime.dll
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\EntityFramework.dll
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\EntityFramework.SqlServer.dll
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\Microsoft.AI.Web.dll
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\Newtonsoft.Json.dll
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\System.Web.Helpers.dll
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\System.Web.Mvc.dll
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\System.Web.Optimization.dll
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\System.Web.Razor.dll
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\System.Web.WebPages.dll
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\System.Web.WebPages.Razor.dll
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\WebGrease.dll
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\EntityFramework.xml
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\EntityFramework.SqlServer.xml
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\Microsoft.AI.Web.xml
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\Microsoft.ApplicationInsights.xml
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\System.Web.Helpers.xml
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\System.Web.Mvc.xml
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\System.Web.Optimization.xml
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\System.Web.Razor.xml
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\System.Web.WebPages.xml
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\System.Web.WebPages.Razor.xml
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\Antlr3.Runtime.pdb
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\bin\Newtonsoft.Json.xml
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\obj\Debug\PhatHanhSach.dll
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\obj\Debug\PhatHanhSach.pdb
+C:\Users\sdsd\Desktop\BT_PhatHanhSach\PhatHanhSach\PhatHanhSach\obj\Debug\PhatHanhSach.csprojResolveAssemblyReference.cache

@@ -1,0 +1,57 @@
+﻿@using PhatHanhSach.Models
+@model IEnumerable<SACH>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Layout/AdminLayout.cshtml";
+}
+                      <h3>Quản Lý Sách</h3>
+@Html.ActionLink("Thêm sách", "ThemSach", "QuanLySach")
+<br />
+<div>
+    <table width="100%" class="table table-bordered">
+        <tr>
+            <th>Mã Sách</th>
+            <th>Tên Sách</th>
+            <th>Tác Giả</th>
+            <th>Hình Ảnh</th>
+            <th></th>
+            <th></th>
+        </tr>
+        @foreach (SACH s in Model)
+        {
+            <tr>
+                <td>@s.MaSach</td>
+                <td>@s.TenSach</td>
+                <td>@s.TacGia</td>
+                <td><img src="@Url.Content("~/Content/HinhAnhSP/" + s.HinhAnh)" /></td>
+                <td>@Html.ActionLink("Sửa","SuaSach", new { @MaSach = s.MaSach })</td>
+                @*<td>@Html.ActionLink("Xóa", "XoaSach", new { @MaSach = s.MaSach })</td>*@
+                <td>@Html.ActionLink("Xóa", "XoaSach", new { @MaSach = s.MaSach}, new { onclick = "return confirm('Chắc chắn muốn xóa?');" })</td>
+               
+            </tr>
+        }
+    </table>
+</div>
+
+<style>
+    table {
+        width: 100%;
+        border: 1px 1px solid;
+        font-size: 20px;
+    }
+
+        table img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 130px;
+            height: 200px;
+        }
+
+        table th {
+            text-align: center;
+        }
+</style>
+
+
